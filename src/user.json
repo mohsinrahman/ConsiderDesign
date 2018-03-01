@@ -1,0 +1,17 @@
+{
+  "name": "Ajwa",
+  "avtar":
+    "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-1/c90.210.540.540/s160x160/20799886_1401526806590185_2004901319390973468_n.jpg?oh=c1857b339cf5c8920195e24ffa6fbe46&oe=5A780FD4",
+  "email": "user@add.com",
+  "phone": "+46 760 4592 72",
+  "title": "Front-End Engineer",
+  "website": "www.hipixel.se",
+  "Product": {
+    "title": "WebbSida",
+    "company": "Kom Tech",
+    "companyURL": "http://programmingbuddy.club",
+    "details":
+      "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit.Aenean commodo ligula eget dolor.",
+    "wireframes": ["image1", "image2", "image3", "image4"]
+  }
+}
