@@ -12,6 +12,11 @@
     "companyURL": "http://programmingbuddy.club",
     "details":
       "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit.Aenean commodo ligula eget dolor.",
-    "wireframes": ["image1", "image2", "image3", "image4"]
+    "wireframes": [
+      "wireframe.png",
+      "wireframe.png",
+      "wireframe.png",
+      "wireframe.png"
+    ]
   }
 }

@@ -15,7 +15,7 @@ ReactDOM.render(
     <BrowserRouter>
       <div>
         <Route exact path="/" component={App} history={history} />
-        <Route path="/userpanel" component={UserPanel} />
+        <Route path="/userpanel" component={UserPanel} history={history} />
       </div>
     </BrowserRouter>
   </Provider>,
